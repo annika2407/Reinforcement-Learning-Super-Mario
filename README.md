@@ -2,7 +2,9 @@
 Inhalt dieses GitHub Repositories ist die Abgabe für die Vorlesung Reinforcement Learning, die im sechsten Semester gehalten wurde.
 Thema dieser Abgabe ist die Entwicklung eines Agenten für das Spiel Super-Mario Bros.
  
-
+## Inhalt des Repositories
+- requirements.txt (important Python libaries to execute Juypter Notebook)
+- Reinforcement-Learning-Aufgabe3-Super-Mario.ipynb (Code of Trained Mario Agent)
 
 
 
