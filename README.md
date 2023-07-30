@@ -1,3 +1,4 @@
 # Abgabe: Reinforcement-Learning
 
-Super-Mario
+6. Semester - Reinforcement Learning
+Thema: Super-Mario Bros 
